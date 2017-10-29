@@ -1,0 +1,33 @@
+@media only screen and (max-width : 480px) {
+	.top_wrapper .top_description .top_center .top_name h1 {
+		font-size: 2em;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.main_footer {
+		text-align: left;
+	}
+	.main_footer .social {
+		float: left;
+		margin-top: 20px;
+		width: 100%;
+	}
+	.main_footer .social ul {
+		padding-left: 0px;
+	}
+}
+
+@media only screen and (max-width : 992px) {
+	.personal_last_block {
+		margin-top: 35px;
+	}
+}
+@media only screen and (max-width : 768px) {
+	.resume_container .left,
+	.section_content .resume_container h3,
+	.resume_container .resume_icon
+	 {
+		text-align: left;
+		margin-bottom: 10px;
+	}
+}
