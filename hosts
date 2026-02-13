@@ -49,13 +49,11 @@
 0.0.0.0 sun9-12.userapi.com 
 0.0.0.0 sun9-59.userapi.com
 0.0.0.0 sun9-78.userapi.com
+0.0.0.0 sun9-45.userapi.com
 0.0.0.0 sendsay.ru
 0.0.0.0 image.sendsay.ru
 0.0.0.0 wmbcdn.com 
 0.0.0.0 static.wmbcdn.com
-0.0.0.0 pinimg.com
-0.0.0.0 i.pinimg.com
-0.0.0.0 s.pinimg.com
 0.0.0.0 cdn-front.freepik.com
 0.0.0.0 cdnpk.net
 0.0.0.0 static.cdnpk.net
@@ -90,7 +88,7 @@
 0.0.0.0 www.gettyimages.com
 0.0.0.0 freepik.com
 0.0.0.0 www.freepik.com
-###tumblr thewikihow###
+###tumblr thewikihow pinterest###
 0.0.0.0 tumblr.com
 0.0.0.0 www.tumblr.com
 0.0.0.0 srvcs.tumblr.com
@@ -105,10 +103,18 @@
 0.0.0.0 64.media.tumblr.com
 0.0.0.0 thewikihow.com
 0.0.0.0 ytimg.thewikihow.com
-##mail ok vk##
+0.0.0.0 www.pinterest.com
+0.0.0.0 pinimg.com
+0.0.0.0 i.pinimg.com
+0.0.0.0 s.pinimg.com
+##mail ok##
 0.0.0.0 okcdn.ru
+0.0.0.0 api.okcdn.ru
+0.0.0.0 iv.okcdn.ru
 0.0.0.0 vsd164.okcdn.ru
 0.0.0.0 vsd228.okcdn.ru
+0.0.0.0 vkvd202.okcdn.ru
+0.0.0.0 vkvd607.okcdn.ru
 0.0.0.0 cdn-vk.ru
 0.0.0.0 st-ok.cdn-vk.ru
 0.0.0.0 st.okcdn.ru
@@ -126,21 +132,10 @@
 0.0.0.0 home.imgsmail.ru
 0.0.0.0 imgs2.imgsmail.ru
 0.0.0.0 limg.imgsmail.ru
-0.0.0.0 cdn-vk.net
-0.0.0.0 otvet.cdn-vk.net
-0.0.0.0 otvet-front.cdn-vk.net
-0.0.0.0 otvet-static.cdn-vk.net
 0.0.0.0 my2.imgsmail.ru
 0.0.0.0 ad.mail.ru
 0.0.0.0 rs.mail.ru
 0.0.0.0 oauth.mail.ru
-0.0.0.0 ads.vk.com
-0.0.0.0 api.vk.com
-0.0.0.0 st1-47.vk.com
-0.0.0.0 static.vk.com
-0.0.0.0 vk.ru
-0.0.0.0 vk-portal.net
-0.0.0.0 akashi.vk-portal.net
 ##dating sites##
 0.0.0.0 beboo.ru
 0.0.0.0 m.beboo.ru
@@ -150,7 +145,28 @@
 0.0.0.0 pics.loveplanet.ru
 0.0.0.0 m.loveplanet.ru
 ##vkvideo##
-
+#0.0.0.0 vkvideo.ru
+0.0.0.0 m.vkvideo.ru
+0.0.0.0 live.vkvideo.ru
+0.0.0.0 st1-47.vkvideo.ru
+0.0.0.0 api.live.vkvideo.ru
+0.0.0.0 images.live.vkvideo.ru
+0.0.0.0 mytop.live.vkvideo.ru
+0.0.0.0 pubsub.live.vkvideo.ru
+0.0.0.0 static.live.vkvideo.ru
+##vk##
+0.0.0.0 ads.vk.com
+0.0.0.0 api.vk.com
+0.0.0.0 st.vk.com
+0.0.0.0 st1-47.vk.com
+0.0.0.0 static.vk.com
+0.0.0.0 vk.ru
+0.0.0.0 vk-portal.net
+0.0.0.0 akashi.vk-portal.net
+0.0.0.0 cdn-vk.net
+0.0.0.0 otvet.cdn-vk.net
+0.0.0.0 otvet-front.cdn-vk.net
+0.0.0.0 otvet-static.cdn-vk.net
 ##rutube##
 #0.0.0.0 rutube.ru
 0.0.0.0 goya.rutube.ru
