@@ -50,6 +50,10 @@
 0.0.0.0 sun9-59.userapi.com
 0.0.0.0 sun9-78.userapi.com
 0.0.0.0 sun9-45.userapi.com
+0.0.0.0 sun1-54.userapi.com
+0.0.0.0 sun3-24.userapi.com
+0.0.0.0 sun3-9.userapi.com
+0.0.0.0 pp.userapi.com
 0.0.0.0 sendsay.ru
 0.0.0.0 image.sendsay.ru
 0.0.0.0 wmbcdn.com 
@@ -115,6 +119,7 @@
 0.0.0.0 vsd228.okcdn.ru
 0.0.0.0 vkvd202.okcdn.ru
 0.0.0.0 vkvd607.okcdn.ru
+0.0.0.0 vkvd432.okcdn.ru
 0.0.0.0 cdn-vk.ru
 0.0.0.0 st-ok.cdn-vk.ru
 0.0.0.0 st.okcdn.ru
@@ -146,7 +151,7 @@
 0.0.0.0 m.loveplanet.ru
 ##vkvideo##
 0.0.0.0 vkvideo.ru
-#0.0.0.0 m.vkvideo.ru
+0.0.0.0 m.vkvideo.ru
 0.0.0.0 live.vkvideo.ru
 0.0.0.0 st1-47.vkvideo.ru
 0.0.0.0 api.live.vkvideo.ru
@@ -155,10 +160,13 @@
 0.0.0.0 pubsub.live.vkvideo.ru
 0.0.0.0 static.live.vkvideo.ru
 ##vk##
+0.0.0.0 ms.vk.com
 0.0.0.0 ads.vk.com
 0.0.0.0 api.vk.com
 0.0.0.0 st.vk.com
 0.0.0.0 st1-47.vk.com
+0.0.0.0 st3-16.vk.com
+0.0.0.0 35212.ms.vk.com
 0.0.0.0 static.vk.com
 0.0.0.0 vk.ru
 0.0.0.0 vk-portal.net
