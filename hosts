@@ -150,8 +150,8 @@
 0.0.0.0 pics.loveplanet.ru
 0.0.0.0 m.loveplanet.ru
 ##vkvideo##
-#0.0.0.0 vkvideo.ru
-#0.0.0.0 m.vkvideo.ru
+0.0.0.0 vkvideo.ru
+0.0.0.0 m.vkvideo.ru
 0.0.0.0 live.vkvideo.ru
 0.0.0.0 st1-47.vkvideo.ru
 0.0.0.0 api.live.vkvideo.ru
@@ -176,8 +176,8 @@
 0.0.0.0 otvet-front.cdn-vk.net
 0.0.0.0 otvet-static.cdn-vk.net
 ##rutube##
-#0.0.0.0 rutube.ru
+0.0.0.0 rutube.ru
 0.0.0.0 goya.rutube.ru
-#0.0.0.0 static.rutube.ru
+0.0.0.0 static.rutube.ru
 0.0.0.0 rutubelist.ru
 0.0.0.0 pic.rutubelist.ru
