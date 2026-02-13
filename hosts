@@ -126,10 +126,10 @@
 0.0.0.0 home.imgsmail.ru
 0.0.0.0 imgs2.imgsmail.ru
 0.0.0.0 limg.imgsmail.ru
-0.0.0.0 cdn-vk.net
-0.0.0.0 otvet.cdn-vk.net
-0.0.0.0 otvet-front.cdn-vk.net
-0.0.0.0 otvet-static.cdn-vk.net
+#0.0.0.0 cdn-vk.net
+#0.0.0.0 otvet.cdn-vk.net
+#0.0.0.0 otvet-front.cdn-vk.net
+#0.0.0.0 otvet-static.cdn-vk.net
 0.0.0.0 my2.imgsmail.ru
 0.0.0.0 ad.mail.ru
 0.0.0.0 rs.mail.ru
