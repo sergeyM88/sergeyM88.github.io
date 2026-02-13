@@ -150,8 +150,8 @@
 0.0.0.0 pics.loveplanet.ru
 0.0.0.0 m.loveplanet.ru
 ##vkvideo##
-0.0.0.0 vkvideo.ru
-0.0.0.0 m.vkvideo.ru
+#0.0.0.0 vkvideo.ru
+#0.0.0.0 m.vkvideo.ru
 0.0.0.0 live.vkvideo.ru
 0.0.0.0 st1-47.vkvideo.ru
 0.0.0.0 api.live.vkvideo.ru
