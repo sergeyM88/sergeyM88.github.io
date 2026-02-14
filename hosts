@@ -15,8 +15,10 @@
 0.0.0.0 csp.withgoogle.com
 0.0.0.0 googletagservices.com
 0.0.0.0 www.googletagservices.com
-#advertising##
-0.0.0.0 expf.ru
+0.0.0.0 google-analytics.com
+0.0.0.0 www.google-analytics.com
+#advertising##              
+0.0.0.0 expf.ru 
 0.0.0.0 api.expf.ru
 0.0.0.0 uxfeedback.ru
 0.0.0.0 cdn.uxfeedback.ru
@@ -66,7 +68,7 @@
 0.0.0.0 image-processor-storage.s3.us-west-2.amazonaws.com
 0.0.0.0 scorecardresearch.com
 0.0.0.0 sb.scorecardresearch.com
-###livejournal.com rambler####
+###livejournal.com rambler uft####
 0.0.0.0 livejournal.com
 0.0.0.0 m.livejournal.com
 0.0.0.0 www.livejournal.com
@@ -83,6 +85,9 @@
 0.0.0.0 rcm-tr.rambler.ru
 0.0.0.0 ssp.rambler.ru
 0.0.0.0 vp.rambler.ru
+0.0.0.0 uft.lol
+0.0.0.0 stat.uft.lol
+0.0.0.0 video.uft.lol
 #gettyimages istockphoto freepik###
 0.0.0.0 spectrum.gettyimages.com
 0.0.0.0 media.gettyimages.com
@@ -111,7 +116,9 @@
 0.0.0.0 pinimg.com
 0.0.0.0 i.pinimg.com
 0.0.0.0 s.pinimg.com
-##mail ok##
+##mail ok woman bolshoyvopros##
+0.0.0.0 ok.ru
+0.0.0.0 m.ok.ru
 0.0.0.0 okcdn.ru
 0.0.0.0 api.okcdn.ru
 0.0.0.0 iv.okcdn.ru
@@ -131,6 +138,9 @@
 0.0.0.0 my3.imgsmail.ru
 0.0.0.0 my5.imgsmail.ru
 0.0.0.0 my6.imgsmail.ru
+0.0.0.0 mail.ru
+0.0.0.0 otvet.mail.ru
+0.0.0.0 my.mail.ru
 0.0.0.0 r3.mail.ru
 0.0.0.0 reklama.mail.ru
 0.0.0.0 imgsmail.ru
@@ -141,6 +151,9 @@
 0.0.0.0 ad.mail.ru
 0.0.0.0 rs.mail.ru
 0.0.0.0 oauth.mail.ru
+0.0.0.0 www.woman.ru
+0.0.0.0 bolshoyvopros.ru
+0.0.0.0 www.bolshoyvopros.ru
 ##dating sites##
 0.0.0.0 beboo.ru
 0.0.0.0 m.beboo.ru
@@ -149,6 +162,7 @@
 0.0.0.0 loveplanet.ru
 0.0.0.0 pics.loveplanet.ru
 0.0.0.0 m.loveplanet.ru
+0.0.0.0 mylove.ru
 ##vkvideo##
 0.0.0.0 vkvideo.ru
 0.0.0.0 m.vkvideo.ru
@@ -160,6 +174,8 @@
 0.0.0.0 pubsub.live.vkvideo.ru
 0.0.0.0 static.live.vkvideo.ru
 ##vk##
+0.0.0.0 vk.com
+0.0.0.0 m.vk.com
 0.0.0.0 ms.vk.com
 0.0.0.0 ads.vk.com
 0.0.0.0 api.vk.com
@@ -175,9 +191,27 @@
 0.0.0.0 otvet.cdn-vk.net
 0.0.0.0 otvet-front.cdn-vk.net
 0.0.0.0 otvet-static.cdn-vk.net
+##messengers###
+0.0.0.0 telesco.pe
+0.0.0.0 cdn4.telesco.pe
 ##rutube##
 0.0.0.0 rutube.ru
 0.0.0.0 goya.rutube.ru
 0.0.0.0 static.rutube.ru
 0.0.0.0 rutubelist.ru
 0.0.0.0 pic.rutubelist.ru
+##pikabu##
+0.0.0.0 pikabu.ru
+0.0.0.0 cs.pikabu.ru
+0.0.0.0 cs13.pikabu.ru
+0.0.0.0 cs14.pikabu.ru
+0.0.0.0 cs15.pikabu.ru
+0.0.0.0 cs16.pikabu.ru
+0.0.0.0 cs17.pikabu.ru
+0.0.0.0 cs18.pikabu.ru
+0.0.0.0 cs19.pikabu.ru
+0.0.0.0 cs20.pikabu.ru
+0.0.0.0 cs44.pikabu.ru
+0.0.0.0 cs6.pikabu.ru
+0.0.0.0 cs8.pikabu.ru
+0.0.0.0 d.pikabu.ru
